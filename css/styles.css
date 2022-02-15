@@ -282,7 +282,7 @@ p{
   display: flex;
   justify-content: space-between;
 }
-}
+
 .our-works-item {
   width: calc((100% - 60px) / 3 );
 }
